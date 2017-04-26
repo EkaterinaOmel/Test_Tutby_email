@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="by.omel.test.NewTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="testFindElements"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- by.omel.test.NewTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

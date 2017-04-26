@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+	<test name="Test: count the number of sent emails">		
+		<parameter name="username" value="test.tutby" />
+		<parameter name="password" value="test4321" />
+		<classes>
+			<class name="by.omel.test.CountTheNumberOfSentEmailsTest" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

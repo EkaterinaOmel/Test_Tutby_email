@@ -1,0 +1,4 @@
+by\omel\pages\TutByMainPage.class
+by\omel\pages\YandexEmailPage.class
+by\omel\pages\SignInPage.class
+by\omel\test\CountTheNumberOfSentEmailsTest.class
